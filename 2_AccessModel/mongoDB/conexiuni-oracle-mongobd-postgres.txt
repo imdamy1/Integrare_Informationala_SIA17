@@ -1,0 +1,2 @@
+MONGO- http://localhost:8081/daily_rankings
+SQL- http://localhost:3000/spotify_tracks_pg
